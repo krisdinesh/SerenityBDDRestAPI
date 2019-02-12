@@ -1,0 +1,6 @@
+com\edp\utils\TestUtils.class
+com\edp\cucumber\EDPRunner.class
+com\edp\utils\ReuseableSpecifications.class
+com\edp\cucumber\steps\EDPSteps.class
+com\edp\testbase\TestBase.class
+com\edp\cucumber\serenity\EDPSerenitySteps.class

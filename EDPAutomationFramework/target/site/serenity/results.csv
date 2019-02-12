@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Verify Student Rest API CRUD","Create Student using Rest API should get the response 201","ERROR","2019-02-12T12:05:17.861-06:00[America/Chicago]","0.0","8.67"
+"Verify Student Rest API CRUD","Update Student using Rest API should get the response 200","ERROR","2019-02-12T12:05:26.749-06:00[America/Chicago]","0.0","2.17"
+"Verify Student Rest API CRUD","Delete Student and search the same Student using Rest API should get the response 404","ERROR","2019-02-12T12:05:28.938-06:00[America/Chicago]","0.0","2.08"
